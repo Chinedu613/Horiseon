@@ -1,5 +1,3 @@
-# CODE REFRACTOR 
-
 ## IMPROVING ACCESSIBILITY
 
 Improving SEO for the Horiseon Company by improving the accessibility of the site. Using semantic tags and the alt attribute to make the site more accessible for people with diabilities. 
@@ -17,9 +15,9 @@ You can Fork this Repository to Deploy this on your server.
 
 ## Usage
 
-This file is used to show you how improved accessibility while keeping the site very similar. Below is a screen of our code.
+This file is used to show you how improved accessibility while keeping the site very similar. Below is a screen of our website.
 
-[Image of the Code used](assets/images/screenshot.png)
+[Image of the website](/assets/images/screenshot.png)
 
 ## Credits
 
@@ -29,4 +27,3 @@ This file is used to show you how improved accessibility while keeping the site 
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Git Hub Forking](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
-
