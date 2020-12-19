@@ -17,7 +17,7 @@ You can Fork this Repository to Deploy this on your server.
 
 This file is used to show you how improved accessibility while keeping the site very similar. Below is a screen of our website.
 
-[Image of the website](./assets/images/screenshot.png)
+![Image of the website](assets/images/screenshot.png)
 
 ## Credits
 
