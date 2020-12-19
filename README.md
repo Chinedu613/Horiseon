@@ -15,7 +15,7 @@ You can Fork this Repository to Deploy this on your server.
 
 ## Usage
 
-This file is used to show you how improved accessibility while keeping the site very similar. Below is a screen of our website.
+This file is used to show you how improved accessibility while keeping the site very similar. Below is a screen of our website and here is the link [Link to Deployed Site](https://chinedu613.github.io/Horiseon/)
 
 ![Image of the website](assets/images/screenshot.png)
 
