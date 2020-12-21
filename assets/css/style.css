@@ -86,8 +86,8 @@ p {
     float: left;
     margin-right: 25px;
 }
-img .float-right {
-    float: right;
+.float-right {
+    float: right !important;
     margin-right: 25px;
 }
 
